@@ -1,1 +1,1 @@
-
+const Module = require('./module');
